@@ -2,6 +2,8 @@
 
 ![Portfolio Preview](assets/Screenshot%20(1).png)
 
+[View Live Demo](https://sahilwebdev.com)
+
 A modern, responsive portfolio website showcasing projects, skills, and blog posts. Built with pure HTML, CSS, and JavaScript with a focus on premium UI/UX design.
 
 ## 🚀 Features
@@ -49,6 +51,3 @@ cd portfolio
 ```bash
 open index.html # or use your local server
 ```
-
-## 🌐 Live Preview
-[View Live Demo](https://sahilwebdev.com)
