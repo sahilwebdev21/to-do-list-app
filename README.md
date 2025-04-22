@@ -1,6 +1,6 @@
 # SahilWebDev Portfolio
 
-![Portfolio Preview](assets/Smart-to-do-list.mp4)
+![Portfolio Preview](assets/Screenshot%20(1).png)
 
 A modern, responsive portfolio website showcasing projects, skills, and blog posts. Built with pure HTML, CSS, and JavaScript with a focus on premium UI/UX design.
 
